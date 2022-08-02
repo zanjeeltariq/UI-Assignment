@@ -1,7 +1,6 @@
-
 body {
   font-family: "Poppins", sans-serif;
-  font-size: 14px;
+  font-size: 0.875rem;
   margin: 0;
 }
 
@@ -63,7 +62,7 @@ body {
 /* */
 .navbar a {
   float: right;
-  font-size: 14px;
+  font-size: 0.875rem;
   color: black;
   text-align: center;
   padding: 27px 16px;
@@ -91,7 +90,7 @@ body {
 
 /* */
 .subnav .subnavbtn {
-  font-size: 14px;
+  font-size: 0.875rem;
   border: none;
   outline: none;
   color: black;
@@ -157,7 +156,7 @@ body {
   margin-bottom: 50px;
   font-weight: 100;
   position: absolute;
-  font-size: 50px;
+  font-size: 3.125rem;
   bottom: 8px;
   left: 16px;
 }
@@ -249,7 +248,7 @@ div.desc {
 /*   */
 .middle-text {
   text-align: center;
-  font-size: 30px;
+  font-size: 1.875rem;
   margin-right: 300px;
   margin-left: 300px;
   font-weight: 200;
@@ -258,7 +257,7 @@ div.desc {
 
 .smaller-middle-text {
   text-align: center;
-  font-size: 18px;
+  font-size: 1.125rem;
   margin-right: 250px;
   font-weight: 100;
   margin-left: 250px;
@@ -448,7 +447,7 @@ ul.middle-navbar li a:hover {
   border-radius: 30px;
   margin-left: 20px;
   padding: 10px 30px;
-  font-size: 15px;
+  font-size: 0.938rem;
   cursor: pointer;
 }
 
@@ -554,7 +553,7 @@ ul.middle-navbar li a:hover {
   }
   .smaller-middle-text {
     text-align: center;
-    font-size: 18px;
+    font-size: 1.125rem;
     margin-right: 250px;
     font-weight: 200;
     margin-left: 250px;
@@ -616,7 +615,7 @@ ul.middle-navbar li a:hover {
     border-radius: 30px;
     margin-left: 20px;
     padding: 10px 30px;
-    font-size: 13px;
+    font-size: 0.813rem;
     cursor: pointer;
   }
 
@@ -660,7 +659,7 @@ ul.middle-navbar li a:hover {
   }
   .navbar a {
     float: right;
-    font-size: 12px;
+    font-size: 0.75rem;
     color: black;
     text-align: center;
     padding: 27px 16px;
@@ -674,7 +673,7 @@ ul.middle-navbar li a:hover {
   }
 
   .subnav .subnavbtn {
-    font-size: 12px;
+    font-size: 0.75rem;
     border: none;
     outline: none;
     color: black;
@@ -689,7 +688,7 @@ ul.middle-navbar li a:hover {
     margin-bottom: 50px;
     font-weight: 100;
     position: absolute;
-    font-size: 36px;
+    font-size: 2.25rem;
     bottom: 8px;
     left: 16px;
   }
@@ -709,7 +708,7 @@ ul.middle-navbar li a:hover {
   }
   .smaller-middle-text {
     text-align: center;
-    font-size: 18px;
+    font-size: 1.125rem;
     margin-right: 100px;
     font-weight: 200px;
     margin-left: 100px;
@@ -722,7 +721,7 @@ ul.middle-navbar li a:hover {
     margin-left: 200px;
     margin-top: -18px;
     font-weight: 200;
-    font-size: 30px;
+    font-size: 1.875rem;
     margin-bottom: 20px;
   }
   div.desc {
@@ -779,7 +778,7 @@ ul.middle-navbar li a:hover {
     padding-right: 5px;
     margin-top: 20px;
     margin-bottom: -5px;
-    font-size: 13px;
+    font-size: 0.8013;
     font-weight: 200;
   }
   .b {
@@ -787,7 +786,7 @@ ul.middle-navbar li a:hover {
     margin-left: 71px;
     margin-top: 2px;
     font-weight: 400;
-    font-size: 13px;
+    font-size: 0.813rem;
   }
 
   .c {
@@ -795,7 +794,7 @@ ul.middle-navbar li a:hover {
     margin-left: 71px;
     margin-top: 2px;
     font-weight: 200;
-    font-size: 13px;
+    font-size: 0.813rem;
   }
   .text-block2 {
     position: absolute;
@@ -848,7 +847,7 @@ ul.middle-navbar li a:hover {
     border-radius: 30px;
     margin-left: 12px;
     padding: 10px 30px;
-    font-size: 13px;
+    font-size: 0.813rem;
     cursor: pointer;
   }
   .col-3 {
@@ -944,7 +943,7 @@ ul.middle-navbar li a:hover {
     display: none;
   }
   ::placeholder {
-    font-size: 35px;
+    font-size: 2.188rem;
     margin: 10px;
   }
   .navbar {
@@ -958,7 +957,7 @@ ul.middle-navbar li a:hover {
 
   .navbar a {
     float: right;
-    font-size: 56px;
+    font-size: 3.5rem;
     color: black;
     text-align: right;
     /* margin-left: 88px; */
@@ -977,7 +976,7 @@ ul.middle-navbar li a:hover {
     width: 50px;
     padding: 0px 16px;
     text-decoration: none;
-    font-size: 86px;
+    font-size: 5.375rem;
   }
   .contact {
     display: none;
@@ -1002,7 +1001,7 @@ ul.middle-navbar li a:hover {
     margin-bottom: 33px;
     font-weight: 100;
     position: absolute;
-    font-size: 92px;
+    font-size: 5.75rem;
     bottom: 8px;
     margin-bottom: 80px;
     left: 98px;
@@ -1046,7 +1045,7 @@ ul.middle-navbar li a:hover {
     border-radius: 2px;
     margin-left: 1px;
     padding: 41px 38px;
-    font-size: 39px;
+    font-size: 2.438rem;
     cursor: pointer;
     z-index: 1;
   }
@@ -1058,7 +1057,7 @@ ul.middle-navbar li a:hover {
 
   .middle-text {
     text-align: center;
-    font-size: 68px;
+    font-size: 4.25rem;
     margin-right: 300px;
     font-weight: 200;
     margin-left: 300px;
@@ -1093,7 +1092,7 @@ ul.middle-navbar li a:hover {
   }
 
   .main-txt {
-    font-size: 65px;
+    font-size: 4.063rem;
     text-align: left;
     font-weight: 200;
     margin-bottom: 10px;
@@ -1101,7 +1100,7 @@ ul.middle-navbar li a:hover {
   .bottom-txt {
     text-align: left;
     font-weight: 200;
-    font-size: 35px;
+    font-size: 2.188rem;
     margin-bottom: 10px;
   }
 
@@ -1117,7 +1116,7 @@ ul.middle-navbar li a:hover {
 
   ul.middle-navbar li {
     font-weight: 200;
-    font-size: 34px;
+    font-size: 2.125rem;
     display: inline-block;
   }
 
@@ -1143,7 +1142,7 @@ ul.middle-navbar li a:hover {
 
   .desc2 {
     padding: 5px;
-    font-size: 50px;
+    font-size: 3.125rem;
     font-weight: 200;
   }
 
@@ -1180,7 +1179,7 @@ ul.middle-navbar li a:hover {
   .a {
     text-align: left;
     margin-left: 153px;
-    font-size: 36px;
+    font-size: 2.25rem;
     margin-top: 36px;
     font-weight: 200;
   }
@@ -1190,11 +1189,11 @@ ul.middle-navbar li a:hover {
     margin-left: 153px;
     margin-top: 2px;
     font-weight: 400;
-    font-size: 33px;
+    font-size: 2.063rem;
   }
 
   .c {
-    font-size: 32px;
+    font-size: 2rem;
     text-align: left;
     margin-left: 153px;
     margin-top: 2px;
@@ -1211,7 +1210,7 @@ ul.middle-navbar li a:hover {
     text-align: left;
     font-weight: 300;
     margin-bottom: 30px;
-    font-size: 56px;
+    font-size: 3.5rem;
   }
   .col-1 {
     width: 500px;
@@ -1225,7 +1224,7 @@ ul.middle-navbar li a:hover {
     text-decoration: none;
     margin-bottom: 10px;
     color: white;
-    font-size: 38px;
+    font-size: 2.375rem;
     font-weight: 100;
     text-align: left;
   }
@@ -1233,7 +1232,7 @@ ul.middle-navbar li a:hover {
   .footer2 p {
     font-weight: 200;
     text-align: left !important;
-    font-size: 32px;
+    font-size: 2rem;
   }
 
   .col-2 form input {
@@ -1257,7 +1256,7 @@ ul.middle-navbar li a:hover {
     margin-top: 30px;
     padding: 24px 83px;
     text-align: left;
-    font-size: 28px;
+    font-size: 1.75rem;
     cursor: pointer;
   }
 
@@ -1332,7 +1331,7 @@ ul.middle-navbar li a:hover {
     text-align: left;
     font-weight: 300;
     margin-bottom: 30px;
-    font-size: 56px;
+    font-size: 3.5rem;
   }
 
   .col-2 form {
@@ -1384,7 +1383,7 @@ ul.middle-navbar li a:hover {
 }
   .social-icons .fa {
     padding: 32px;
-    font-size: 56px;
+    font-size: 3.5rem;
     width: 135px;
     height: 116px;
     background: black;
@@ -1428,7 +1427,7 @@ ul.middle-navbar li a:hover {
   
   .progress-bottom-text{
     text-align: -webkit-left;
-    font-size: 65px;
+    font-size: 4.063rem;
     color: white;
     margin-top: 113px;
     /* margin-right: 300px; */
@@ -1438,7 +1437,7 @@ ul.middle-navbar li a:hover {
   }
   .progress-bottom-text2{
     text-align: left;
-    font-size: 28px;
+    font-size: 1.75rem;
     /* margin-right: 100px; */
     color: white;
     font-weight: 200px;
@@ -1460,7 +1459,7 @@ ul.middle-navbar li a:hover {
     margin-top: 59px;
     padding: 25px 38px;
     /* text-align: left; */
-    font-size: 33px;
+    font-size: 2.063rem;
     cursor: pointer;
   }
   .button2{
@@ -1472,7 +1471,7 @@ ul.middle-navbar li a:hover {
     margin-left: 17px;
     margin-top: 59px;
     padding: 25px 38px;
-    font-size: 33px;
+    font-size: 2.063rem;
     cursor: pointer;
   }
   .container-progress .box-progress .mini-circle{
@@ -1509,7 +1508,7 @@ ul.middle-navbar li a:hover {
     width: 100%;
     height: 100%;
     text-align: center;
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: bold;
     line-height: 160px;
     height: 160px;
@@ -1523,4 +1522,3 @@ ul.middle-navbar li a:hover {
     left: -29px;
   }  
 }
-
